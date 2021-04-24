@@ -1314,6 +1314,36 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ddtrace-0.47.0/integration" />
       </excluded>
     </library>
+    <library name="debase (v0.2.4.1, Remote: ruby-2.6.7-p197) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.12, Remote: ruby-2.6.7-p197) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-ruby_core_source-0.10.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/debase-ruby_core_source-0.10.12/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v1.0.0, Remote: ruby-2.6.7-p197) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5047,6 +5077,25 @@
       <excluded>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/rubocop-rails-2.9.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/rubocop-rails-2.9.1/config" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.2, Remote: ruby-2.6.7-p197) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/-613999475/usr/local/bundle/gems/ruby-debug-ide-0.7.2/ext" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.11.0, Remote: ruby-2.6.7-p197) [gem]" type="rubylib">
