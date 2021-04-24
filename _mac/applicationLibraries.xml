@@ -1210,6 +1210,25 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1989271250/usr/local/lib/ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v2.0.1, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bundler-2.0.1/man" />
+      </excluded>
+    </library>
     <library name="bundler (v2.0.2, Remote: ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
