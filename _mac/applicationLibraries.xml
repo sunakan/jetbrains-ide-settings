@@ -5167,7 +5167,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.8" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/spec" />
@@ -5176,7 +5175,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.8" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/nio4r-2.5.8/spec" />
