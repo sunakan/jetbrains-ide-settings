@@ -1,11 +1,6 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="ruby" />
-    <option name="languageToProjectMap">
-      <map>
-        <entry key="ruby" value="$USER_HOME$/RubymineProjects/RubyMineLearningProject" />
-      </map>
-    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -14,6 +9,7 @@
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="NOT_PASSED" />
@@ -26,6 +22,13 @@
         <entry key="extract variable" value="NOT_PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
+        <entry key="git.annotate" value="NOT_PASSED" />
+        <entry key="git.basicworkflow" value="NOT_PASSED" />
+        <entry key="git.changelistsandshelf" value="NOT_PASSED" />
+        <entry key="git.commit" value="NOT_PASSED" />
+        <entry key="git.interactiverebase" value="NOT_PASSED" />
+        <entry key="git.projecthistory" value="NOT_PASSED" />
+        <entry key="git.quickstart" value="NOT_PASSED" />
         <entry key="hippie completion" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
